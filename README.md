@@ -7,5 +7,4 @@ I am also improving my problem-solving skills for placements and exploring new t
 •	Java, Python 
 •	Arduino, MATLAB, VS Code
 Goal
-To build a career at the intersection of Electronics and Software by working on Embedded Systems, IoT, and intelligent technology solutions.
-
+To build a strong career at the intersection of Electronics and Software by developing innovative solutions in Embedded Systems, IoT, and intelligent technologies.
